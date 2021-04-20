@@ -22,6 +22,6 @@ I have used the following R-packages:
 readr
 dplyr
 tibble
-tidr
+tidyr
 stringr
 
